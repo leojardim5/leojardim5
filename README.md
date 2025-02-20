@@ -11,7 +11,7 @@
 🛠️ Habilidades e Tecnologias
 -
 
-💻 Back-end: Java (Spring Boot, Spring Data, JPA), NodeJS
+💻 Back-end: Java (Spring Boot, Spring Data, JPA), JavaScript (NodeJS)
 
 🌐 Front-end: HTML, CSS, ReactJS, NextJS
 
