@@ -1,84 +1,62 @@
-# Leonardo-Jardim
+<h1 align="center">Leonardo Jardim</h1>
 
-👋 Olá, eu sou Leonardo Augusto Magalhães Jardim!
+<p align="center">
+  Desenvolvedor Backend Júnior • Java • Spring Boot • Node.js • Python
+</p>
 
-📌 Desenvolvedor Back-end com foco em Java (Spring Boot) e JavaScript (NodeJS).
-📍 Rio de Janeiro, Brasil
+<p align="center">
+  Construindo APIs, automações e soluções web com foco em backend, performance e organização de processos.
+</p>
 
+---
 
----------------------------------------------------------------------------------------------------------------------------------
+## Sobre mim
 
-🛠️ Habilidades e Tecnologias
--
+- Atualmente atuando como **Desenvolvedor de Sistemas Júnior na iTracker Logística Inteligente**
+- Experiência com **Java, Spring Boot, Node.js, Python, Next.js e PostgreSQL**
+- Forte interesse em **backend, automação, infraestrutura Linux e desenvolvimento de APIs REST**
+- Estudante de **Sistemas de Informação na UNIRIO**
 
-💻 Back-end: Java (Spring Boot, Spring Data, JPA), JavaScript (NodeJS)
+---
 
-🌐 Front-end: HTML, CSS, ReactJS, NextJS
+## Tech Stack
 
-🛢️ Banco de Dados: MySQL, MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,typescript,javascript,react,nextjs,tailwind,postgres,mongodb,docker,linux,git" />
+</p>
 
-⚙️ Automação e Web Scraping: Python (Selenium, BeautifulSoup)
+---
 
-🔧 Outros: Docker, Git, Lógica de Programação, Informática Geral, MS Office
+## Experiência em destaque
 
----------------------------------------------------------------------------------------------------------------------------------
+### iTracker Logística Inteligente
+- Desenvolvimento backend e full stack
+- Automações em Python para processos logísticos
+- Dashboards e integrações com banco de dados
+- Organização de infraestrutura Linux, backups e ambientes
 
-🎓 Educação
--
+### Tecnologias com que trabalho
+- **Backend:** Java, Spring Boot, Node.js, NestJS, Express
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Banco de dados:** PostgreSQL, MongoDB
+- **Infraestrutura:** Linux, Bash, SSH, Docker
+- **Automação:** Python, Selenium, Pandas
 
-📚 Bacharelado em Sistemas de Informação - UNIRIO (Previsão de Conclusão: Dezembro/2025)
+---
 
----------------------------------------------------------------------------------------------------------------------------------
+## GitHub Stats
 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leojardim5&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojardim5&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-💼 Experiência Profissional
--
+---
 
-🔹 Lobie - Administradora Nacional (Maio 2023 – Outubro 2023) - Desenvolvedor (Estagiário)
+## Contato
 
-Automação e raspagem de dados com Python.
-
-Manutenção e modernização do sistema da empresa usando Flutter.
-
-🔹 Satel Brasil (Julho 2021 – Março 2022) - Desenvolvedor (Estagiário)
-
-Prestação de suporte técnico e resolução de problemas.
-
-Desenvolvimento e manutenção do site da empresa.
-
-Criação de novos softwares seguindo regras de desenvolvimento.
-
----------------------------------------------------------------------------------------------------------------------------------
-
-
-📞 Contato
--
-
-📧 Email: leojardim5@gmail.com
-🔗 LinkedIn: linkedin.com/in/leonardo-augusto-magalhães-jardim-165702197
-💻 GitHub: github.com/leojardim5
-
----------------------------------------------------------------------------------------------------------------------------------
-
-
-📜 Como rodar meus projetos?
--
-
-Cada projeto possui um README.md com instruções detalhadas sobre instalação, configuração e execução. Para rodar qualquer projeto:
-
-1️⃣ Clone o repositório desejado:
-
-git clone https://github.com/leojardim5/nome-do-repositorio.git
-cd nome-do-repositorio
-
-2️⃣ Leia o README.md do projeto para instruções específicas.
-
-3️⃣ Execute os comandos indicados para iniciar o projeto.
-
----------------------------------------------------------------------------------------------------------------------------------
-
-
-🚀 Bons estudos e boas contribuições! 🚀
----------------------------------------------------------------------------------------------------------------------------------
-
-
+<p>
+  <a href="mailto:leojardim5@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/leonardo-augusto-magalhães-jardim">LinkedIn</a> •
+  <a href="https://github.com/leojardim5">GitHub</a>
+</p>
