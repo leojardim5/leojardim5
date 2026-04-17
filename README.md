@@ -9,11 +9,11 @@ Backend Developer • Java • Spring Boot • Node.js • Python
 
 ## Sobre
 
-Desenvolvedor de Sistemas com experiência prática em backend, automação de processos e aplicações web.
+Desenvolvedor Backend Júnior com sólido conhecimento em Java e um foco especial em otimizar a manipulação de coleções de dados complexas. Tenho experiência prática na construção de lógicas de agregação e transformação com a Stream API, utilizando Collectors avançados como groupingBy, partitioningBy, mapping, teeing e summarizing. Apaixonado por construir soluções robustas e eficientes com o ecossistema Spring Boot e Node.js, transformando desafios de negócio em APIs RESTful seguras e performáticas.
 
-Atualmente atuo na iTracker Logística Inteligente, trabalhando com integração de sistemas, automações em Python e organização de infraestrutura em ambientes Linux.
+Graduado em Sistemas de Informação na UNIRIO, busco aplicar uma base sólida em algoritmos, estruturas de dados e boas práticas de codificação para criar software limpo e de fácil manutenção. Minha experiência prática inclui o desenvolvimento e a manutenção de microsserviços com Java e Spring Boot (incluindo Spring Data, JPA/Hibernate), além da criação de APIs com Node.js, TypeScript e NestJS. Tenho proficiência na modelagem e consumo de bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB), e experiência com a conteinerização de aplicações usando Docker.
 
-Tenho experiência com Java (Spring Boot), Node.js, Next.js e bancos de dados relacionais e NoSQL, sempre focando em soluções eficientes e escaláveis.
+Comunicativo e proativo, prospero em ambientes de equipe e estou sempre aprendendo novas tecnologias para aprimorar minhas entregas. Atualmente buscando uma oportunidade de nível júnior para aplicar e expandir minhas habilidades em desenvolvimento backend. Sinta-se à vontade para me contatar por e-mail (leojardim5@gmail.com) 
 
 ---
 
