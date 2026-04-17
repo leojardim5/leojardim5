@@ -33,11 +33,44 @@ Comunicativo e proativo, prospero em ambientes de equipe e estou sempre aprenden
 
 ## Experiência
 
-**iTracker Logística Inteligente**
+### iTracker Logística Inteligente — Desenvolvedor de Sistemas Júnior
+
 - Desenvolvimento backend e aplicações full stack
-- Automações em Python para processos operacionais
-- Integração com banco de dados e dashboards
-- Organização de ambientes Linux e infraestrutura
+- Criação de automações (RPA) em Python para processos logísticos
+- Integração entre sistemas e ERP (Alterdata / Bimer)
+- Construção de dashboards e consultas estratégicas
+- Organização de infraestrutura Linux, backups e ambientes
+- Atuação em ambientes de produção com foco em performance e confiabilidade
+
+---
+
+### Bravo Studios — Development Intern
+
+- Desenvolvimento e manutenção de sistema central da empresa
+- Gestão de projetos, pagamentos e fluxos administrativos
+- Modernização da infraestrutura com Docker e TypeScript
+- Uso de PostgreSQL para garantir consistência e performance
+- Implementação de melhorias que aumentaram a produtividade operacional
+
+---
+
+### Lobie — Estagiário de Desenvolvimento
+
+- Desenvolvimento de automações para coleta de dados imobiliários
+- Uso de Python, Selenium e BeautifulSoup para web scraping
+- Redução de um processo de ~160 horas mensais para poucos minutos
+- Eliminação de erros manuais e aumento da eficiência da equipe
+
+---
+
+### Satel Brasil — Estagiário de Desenvolvimento
+
+- Criação de backend com Node.js e Express
+- Desenvolvimento de APIs REST para integração de sistemas
+- Centralização do acesso a dados da empresa
+- Melhoria de performance em aplicações internas (~30%)
+
+---
 
 ---
 
